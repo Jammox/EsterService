@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EsterService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConfigFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Steiner\Ester\estParam\estTimer.ini</Value>
+    </Setting>
+    <Setting Name="HLACorePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Steiner\HLAcore\shmhla\SysTray\shmhla.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
